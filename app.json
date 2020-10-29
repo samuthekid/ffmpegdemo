@@ -1,0 +1,12 @@
+{
+  "name": "ffmpegdemo",
+  "displayName": "ffmpegdemo",
+  "expo": {
+    "name": "ffmpegdemo",
+    "slug": "ffmpegdemo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
